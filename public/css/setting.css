@@ -1,0 +1,19 @@
+*
+{
+	font-family: 'Lexend Deca', sans-serif;
+
+}
+body
+{
+		background-color: #f1f1f1;
+}
+.hover:hover
+{
+ 	background-color: #CECFCC;
+
+}
+.a
+{
+	padding: 10px;
+	margin-bottom: 10px;
+}
